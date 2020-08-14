@@ -4,25 +4,14 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ritmojs&label=Views&color=blue&style=plastic" alt="ritmojs" /> </p>
 
 
-[![GitHub gauravsingh9356](https://img.shields.io/github/followers/ritmojs?label=follow&style=social)](https://github.com/ritmojs)
-<br/>
-<br/>
-
-
-
-
-
-
-
-
-<br/>
+[![GitHub ritmojs](https://img.shields.io/github/followers/ritmojs?label=follow&style=social)](https://github.com/ritmojs)
 
 
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritmojs&theme=merko)](https://github.com/ritmojs)
 </div>
-<br/>
+
 
 
 
@@ -38,7 +27,7 @@
   <img align="center" alt="Rhythm's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/rhythm_verma27/">
-  <img align="left" alt="Rhythm's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="Rhythm's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/ritmojs">
   <img align="center" alt="Rhythm's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -50,8 +39,8 @@
 <a href="https://codepen.io/ritmojs">
   <img align="center" alt="rhythm's Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
 </a>
-<a align='center' href="https://dev.to/ritmojs">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Rhythm's DEV Profile"  width="22px">
+<a  href="https://dev.to/ritmojs">
+  <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Rhythm's DEV Profile"  width="22px">
 </a>
 </div>
 <div align='center'>
