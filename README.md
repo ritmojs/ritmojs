@@ -1,6 +1,8 @@
 ### Hi there 👋
 #### I am Rhythm  :)
 
+- 💬 Ask me about react, android,node,javascript.
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ritmojs&label=Views&color=blue&style=plastic" alt="ritmojs" /> </p>
 
 <div align="center">
@@ -28,7 +30,7 @@
 <a href="https://twitter.com/ritmojs">
   <img align="center" alt="Rhythm's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/rhythm_verma27/">
+<a href="https://linkedin.com/in/rhythm-verma27/">
   <img align="center" alt="Rhythm's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/ritmojs">
