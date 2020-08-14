@@ -3,9 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ritmojs&label=Views&color=blue&style=plastic" alt="ritmojs" /> </p>
 
+<div align="center">
 
 [![GitHub ritmojs](https://img.shields.io/github/followers/ritmojs?label=follow&style=social)](https://github.com/ritmojs)
 
+</div>
 
 <div align="center">
 
