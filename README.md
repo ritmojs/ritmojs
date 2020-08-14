@@ -18,8 +18,10 @@
 <br/>
 
 
+<div align="center">
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritmojs&theme=merko)](https://github.com/ritmojs)
+</div>
 <br/>
 
 
@@ -29,10 +31,7 @@
 <br/>
 
 <img align='center' src='https://github-readme-stats.vercel.app/api?username=ritmojs&show_icons=true&title_color=ffffff&icon_color=55E897&text_color=5EACE1&bg_color=151515'/>
-<a align='center' href="https://dev.to/ritmojs">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Rhythm's DEV Profile" height="200" width="425">
-</a>
-
+<div align="center">
 <p>Contact Me Here😊</p>
 <a href="https://twitter.com/ritmojs">
   <img align="left" alt="Rhythm's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -50,7 +49,10 @@
 <a href="https://codepen.io/ritmojs">
   <img align="left" alt="rhythm's Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
 </a>
-
+<a align='center' href="https://dev.to/ritmojs">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Rhythm's DEV Profile"  width="22px">
+</a>
+</div>
 <div align='center'>
- ### Show some ❤️ by starring some of the repositories!
+ <p>Show some ❤️ by starring some of the repositories!<p>
   </div>
